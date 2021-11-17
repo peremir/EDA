@@ -1,4 +1,6 @@
 
+/* Col·lecció de números */
+
 #include <iostream>
 #include <map>
 using namespace std;
