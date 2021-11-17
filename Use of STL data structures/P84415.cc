@@ -1,4 +1,6 @@
 
+/* La bossa de les paraules */
+
 #include <iostream>
 #include <string>
 #include <map>
